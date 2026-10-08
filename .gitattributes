@@ -1,0 +1,7 @@
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+*.vhd linguist-language=VHDL
+*.vhdl linguist-language=VHDL
+``
